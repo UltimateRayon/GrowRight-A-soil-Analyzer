@@ -55,7 +55,7 @@ Watch the project in action:
 
 ## 🖼️ Project Image
 
-`![GrowRight Setup](./Connection.jpg)`
+![GrowRight Setup](./Connection.jpg)
 
 ## 👥 Team Members
 
