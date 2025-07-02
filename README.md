@@ -46,7 +46,7 @@
 ## 💻 Source Code
 
 The main program is written in Arduino C++ and can be found here:  
-👉 [`GrowRight.ino`](./GrowRight.ino) *(Rename your file to this in GitHub if not already)*
+👉 [`GrowRight.ino`](./GrowRight.ino)
 
 ## 🎥 Demo Video
 
